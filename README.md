@@ -87,7 +87,7 @@ Our smart contracts are built using ink!, a Rust-based language designed specifi
 🧾 Figma Slides
 
 🔗 Link
-🌐 bethenation.fun
+🌐 betezen.fun - [https://betezen.netlify.app/]
 
 ---
 
