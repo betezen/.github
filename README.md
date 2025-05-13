@@ -113,9 +113,9 @@ git push origin feature/your-feature
 ```
 
 ## Team
-- **Ahmad Taufiq Harahap** – Project Manager([GitHub](https://github.com/AhmadTaufiq24))
-- **Syahlevi Aldarna** – Frontend Dev([GitHub](https://github.com/syahlevi-aldarna))
-- **Danuardi** – Backend Dev([GitHub](https://github.com/Danuardi))
+- **Ahmad Taufiq Harahap** – Project Manager[AhmadTaufiq24](https://github.com/AhmadTaufiq24)
+- **Syahlevi Aldarna** – Frontend Dev[syahlevi-aldarna](https://github.com/syahlevi-aldarna)
+- **Danuardi** – Backend Dev[Danuardi](https://github.com/Danuardi)
 
 ## Contact
 - Email: betezen.fun@gmail.com
