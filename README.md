@@ -3,6 +3,7 @@
 *Don't Bet, Trade Your Country's Future.*
 
 <img src="assets/betezen.png" alt="Betezen Logo" width="400"/>
+
 ---
 
 ## 🧭 Overview
@@ -112,7 +113,6 @@ git push origin feature/your-feature
 ```
 
 ## Team
-- **Aji Guruh Prasetyo** – FullStack Dev([GitHub](https://github.com/ajiguruhprasetyo))
 - **Ahmad Taufiq Harahap** – Project Manager([GitHub](https://github.com/AhmadTaufiq24))
 - **Syahlevi Aldarna** – Frontend Dev([GitHub](https://github.com/syahlevi-aldarna))
 - **Danuardi** – Backend Dev([GitHub](lihttps://github.com/Danuardi))
