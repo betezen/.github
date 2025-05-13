@@ -87,7 +87,7 @@ Our smart contracts are built using ink!, a Rust-based language designed specifi
 🧾 Figma Slides
 
 🔗 Link
-🌐 [betezen.fun]_(https://betezen.netlify.app/). 
+🌐 Website: [bethenation.fun](https://betezen.netlify.app/) 
 
 ---
 
@@ -115,7 +115,7 @@ git push origin feature/your-feature
 ## Team
 - **Ahmad Taufiq Harahap** – Project Manager([GitHub](https://github.com/AhmadTaufiq24))
 - **Syahlevi Aldarna** – Frontend Dev([GitHub](https://github.com/syahlevi-aldarna))
-- **Danuardi** – Backend Dev([GitHub](lihttps://github.com/Danuardi))
+- **Danuardi** – Backend Dev([GitHub](https://github.com/Danuardi))
 
 ## Contact
 - Email: betezen.fun@gmail.com
